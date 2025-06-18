@@ -1,0 +1,19 @@
+{
+  "name": "big-si-bucks-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SARAVANAN-2004/Alumni-Network-Project.git"
+  },
+  "author": "Saravanan G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SARAVANAN-2004/Alumni-Network-Project/issues"
+  },
+  "homepage": "https://github.com/SARAVANAN-2004/Alumni-Network-Project#readme",
+  "description": ""
+}
